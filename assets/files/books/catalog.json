@@ -1,0 +1,43 @@
+{
+    "categories": [
+        ""
+    ],
+    "books": [
+        {
+            "name": "Alphabet Test",
+            "code": "fox",
+            "x": 30,
+            "y": 28,
+            "depth": 1
+
+        },
+        {
+            "name": "Litany Against Fear",
+            "code": "mantra",
+            "x": 47,
+            "y": 28,
+            "depth": 2
+        },
+        {
+            "name": "Sheet Music",
+            "code": "radio",
+            "x": 64,
+            "y": 28,
+            "depth": 3
+        },
+        {
+            "name": "A return-to-sender-ed love letter",
+            "code": "tomyfoot",
+            "x": 600,
+            "y": 280,
+            "depth": 4
+        },
+        {
+            "name": "Bee Movie",
+            "code": "bees",
+            "x": 81,
+            "y": 28,
+            "depth": 5
+        }
+    ]
+}
