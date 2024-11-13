@@ -1,0 +1,30 @@
+{
+    "type": "",
+    "text": [
+        "<payday>Need Help?",
+        "<payday>Type the letter in the carriage to advance the slide.",
+        "<scaleShelf>Press return at the end of the line, at the ding, to return the slide and begin a new line.",
+        "Punctuation can be turned off in the settings.",
+        "You may have noticed you do not need to press space, but when you do it glows green.",
+        "That is the \"space bonus\". It doubles the points of the letter you're typing.",
+        "Oh yeah, notice your points going up? That is a good thing.",
+        "<payday>The higher your point total at the end of this \"story\", the more cash you get.",
+        "Oh you didn't know about the cash? Yeah, you get paid for typing out words.",
+        "Well, you're more copying the words. But that is your job after all, the copier.",
+        "When you have a chance, you can take a look at your bookshelf.",
+        "<scaleShelf>There's an icon for it in the top left",
+        "Feel free to take a look around whenever you want.",
+        "When you leave, your progress on an active story is saved. Though there is an option to restart at the beginning of a line that is on by deafult TODO ADD THIS SETTING HARASS AUSTIN IF YOU TYPE THIS SO HE'LL REMOVE THIS AND ADD THE SETTING so you can better remember where you left off for longer lines like this one. The Beauru of Formatting normally ensures line length is kept within respectable parameters, but this time we have made an exception for the purpose of demonstration. I hope this demonstration has been effective. Resuming length quality control now.",
+        "If you've visited the bookshelf by now, you may have noticed you cannot buy any other books.",
+        "You need some of that aforementioned cash money which you'll get soon.",
+        "When you complete a text, you get paid based on your points.",
+        "Points are pretty easy to come by, so they're paid at a very low rate.",
+        "If you click on the points display it will toggle to your current expected payout.",
+        "<payday>Payouts get paid on lines like this one, notice the cash symbol to the left of the line as it comes up.",
+        "These lines will also help you in other ways once you practice.",
+        "Well, I'm just about out of room here. If I think of some more things. I'll add them here.",
+        "Don't worry about having to type this all out again to check later.",
+        "By the time this letter expands you'll have some means of skipping through already typed text.",
+        "You can do so by pressing TODO ADD THE KEY HERE BUT ALSO ADD A DIRECTIVE FOR STRING REPLACEMENT"
+    ]
+}
