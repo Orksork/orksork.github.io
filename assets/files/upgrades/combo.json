@@ -1,4 +1,6 @@
 {
     "title": "Combo Bonus",
-    "desc": "Increase your combo gain by 0.01 per upgrade."
+    "desc": "Increase your combo gain by %value per upgrade.",
+    "value": 0.01,
+    "todo": "ADD IN THE FUNCTION TO USE HERE. AND PASS THIS BACK TO THE SCENE CUZ LOL WHY NOT AND ALSO FUNCTION PARAMETERS."
 }

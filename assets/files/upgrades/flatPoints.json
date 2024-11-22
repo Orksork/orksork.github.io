@@ -1,0 +1,6 @@
+{
+    "title": "Flat Points Up",
+    "desc": "Every correct key increases your points by %value.",
+    "value": 1,
+    "todo": "DOUBLE CHECK EVERYTHING IS HOOKED UP FROM FLAT POINTS."
+}
