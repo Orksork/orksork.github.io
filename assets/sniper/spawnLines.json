@@ -1,0 +1,59 @@
+{
+    "spawnLines": [
+        {
+            "path": {
+                "type": "Path",
+                "x": 2,
+                "y": 377,
+                "autoClose": false,
+                "curves": [
+                    {
+                        "type": "LineCurve",
+                        "points": [
+                            2,
+                            377,
+                            131,
+                            359
+                        ]
+                    },
+                    {
+                        "type": "LineCurve",
+                        "points": [
+                            131,
+                            359,
+                            285,
+                            355
+                        ]
+                    },
+                    {
+                        "type": "LineCurve",
+                        "points": [
+                            285,
+                            355,
+                            430,
+                            364
+                        ]
+                    },
+                    {
+                        "type": "LineCurve",
+                        "points": [
+                            430,
+                            364,
+                            727,
+                            399
+                        ]
+                    },
+                    {
+                        "type": "LineCurve",
+                        "points": [
+                            727,
+                            399,
+                            1074,
+                            449
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

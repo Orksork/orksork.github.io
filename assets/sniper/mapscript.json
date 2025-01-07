@@ -1,0 +1,10 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "do": "spawn",
+            "at": {"x": 1, "y": 20},
+            "who": "Brotherman Bill"
+        }
+    ]
+}

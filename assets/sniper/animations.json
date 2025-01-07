@@ -1,0 +1,56 @@
+{
+    "attack": {
+        "type": "gifoverlay",
+        "key": "blueLocator"
+    },
+    "updown": {
+        "type": "phaserpath",
+        "steps": [
+            {
+                "path": {
+                    "type": "Path",
+                    "x": 0,
+                    "y": 0,
+                    "autoClose": false,
+                    "curves": [
+                        {
+                            "type": "LineCurve",
+                            "points": [
+                                0,
+                                0,
+                                0,
+                                -10
+                            ]
+                        }
+                    ]
+                },
+                "duration": 500,
+                "delay": 500
+            },
+            {
+                "path": {
+                    "type": "Path",
+                    "x": 0,
+                    "y": 0,
+                    "autoClose": false,
+                    "curves": [
+                        {
+                            "type": "LineCurve",
+                            "points": [
+                                0,
+                                -10,
+                                0,
+                                -5
+                            ]
+                        }
+                    ]
+                },
+                "duration": 1500,
+                "delay": 0,
+                "resetMask": true
+            }
+
+        ]
+        
+    }
+}
