@@ -1,0 +1,128 @@
+{
+    "name": "Testing stuff, finished things get tacked onto level1.json",
+    "entryScen": "s8",
+    "scenes": [
+        {
+            "key": "s8",
+            "next": "s11",
+            "steps": [
+                {
+                    "type": "frame0"
+                },
+                {
+                    "type": "playVideo"
+                },
+                {
+                    "type": "pauseText",
+                    "text": "Oh no they got into my bedroom.\nIf they've gone through my diary I'm never going to live it down"
+                },
+                {
+                    "type": "pauseText",
+                    "text": "*Do another fight here with some more enemies pouring out of the bedroom. also have one shooting from behind the couch."
+                },
+                {
+                    "type": "pauseText",
+                    "text": "*Screen shake effect*\n'What was that?'\n*screen shake*\n*fee fi fo fum sound*"
+                },
+                {
+                    "type": "pauseText",
+                    "text": "*Boss appears*\n'cannot kill boss fight' occurs"
+                }
+                
+            ]
+        },
+        {
+            "key": "s11",
+            "next": "s12",
+            "steps": [
+                {
+                    "type": "frame0"
+                },
+                {
+                    "type": "playVideo"
+                },
+                {
+                    "type": "pauseText",
+                    "text": "What is she doing? Is she singing?"
+                },
+                {
+                    "type": "pauseText",
+                    "text": "*Boss scream sound/animation/shake/delayedtransition*"
+                }
+
+                
+            ]
+        },
+        {
+            "key": "s12",
+            "next": "s13",
+            "steps": [
+                {
+                    "type": "frame0"
+                },
+                {
+                    "type": "playVideo"
+                },
+                {
+                    "type": "pauseText",
+                    "text": "My favorite window! Well shit if I can't hurt her, I'll have to regroup."
+                },
+                {
+                    "type": "pauseText",
+                    "text": "Lick my wounds"
+                },
+                {
+                    "type": "pauseText",
+                    "text": "Patch some holes"
+                },
+                {
+                    "type": "pauseText",
+                    "text": "Hone my blades"
+                },
+                {
+                    "type": "pauseText",
+                    "text": "Jerk some meat"
+                },
+                {
+                    "type": "pauseText",
+                    "text": "I'll have to get better."
+                },
+                {
+                    "type": "pauseText",
+                    "text": "*Boss appears from side of window and begins animating again.*\nOH SHIT I GOTTA GO"
+                }
+                
+            ]
+        },
+        {
+            "key": "s13",
+            "next": "s14",
+            "steps": [
+                {
+                    "type": "frame0"
+                },
+                {
+                    "type": "playVideo"
+                } 
+                
+            ]
+        },
+        {
+            "key": "s14",
+            "steps": [
+                {
+                    "type": "frame0"
+                },
+                {
+                    "type": "playVideo"
+                },
+                {
+                    "type": "pauseText",
+                    "text": "Prologue Prototype ended"
+                }
+                
+            ]
+        }
+
+    ]
+}
